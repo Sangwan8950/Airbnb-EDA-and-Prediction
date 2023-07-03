@@ -17,5 +17,5 @@
 ⚫Performed Extract, Transform, Load (ETL) operations.<br>
 ⚫Transformed the data for analysis.<br>
 ⚫Selected a suitable algorithm (e.g.,random regressor, linear regression).<br>
-⚫Evaluate the model's performance using appropriate metrics (accuracy, precision, recall, etc.)<br>
-⚫Classify customers into categories based on the model's predictions.<br>
+⚫Evaluate the model's performance using appropriate metrics (mse, rmse etc.)<br>
+
